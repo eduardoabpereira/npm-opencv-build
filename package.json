@@ -1,6 +1,6 @@
 {
-  "name": "@u4/opencv-build",
-  "version": "0.7.8",
+  "name": "@edumolki/opencv-build",
+  "version": "1.0.2",
   "description": "A simple script to auto build recent OpenCV + contrib version via npm 2022 Edition",
   "main": "dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -36,22 +36,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UrielCh/npm-opencv-build.git"
+    "url": "git+https://github.com/eduardoabpereira/npm-opencv-build.git"
   },
   "keywords": [
     "opencv",
     "build",
     "opencv4nodejs"
   ],
-  "contributors": [
-    "Uriel Chemouni <uchemouni@gmail.com> (https://uriel.ovh/)",
-    "justadudewhohacks (https://github.com/justadudewhohacks)"
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UrielCh/npm-opencv-build/issues"
+    "url": "https://github.com/eduardoabpereira/npm-opencv-build/issues"
   },
-  "homepage": "https://github.com/UrielCh/npm-opencv-build#readme",
+  "homepage": "https://github.com/eduardoabpereira/npm-opencv-build#readme",
   "dependencies": {
     "@u4/tiny-glob": "^0.3.2",
     "npmlog": "^7.0.1",
